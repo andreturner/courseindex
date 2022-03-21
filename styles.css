@@ -1,7 +1,7 @@
 @font-face {
   font-family: myFirstFont;
-  src: url(/fonts/infini-bold.otf);
-  src: url(/fonts/libertinussans-regular.otf);
+  src: url(fonts/infini-bold.otf);
+  src: url(fonts/libertinussans-regular.otf);
 }
 
 a:link {
